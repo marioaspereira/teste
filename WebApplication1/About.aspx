@@ -5,7 +5,7 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <h2>
-        About lalalala
+        This a test on Visual Studio using Github for source control
     </h2>
     <p>
         Put content here.
